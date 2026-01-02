@@ -20,8 +20,8 @@ If you use this code in your own work, please cite the following paper:
 ---
 
 ### Main Function
-`[uv, VB, VI] = DiskBEM(F, V)`
-`[uv, VB, VI] = SquareBEM(F, V)`
+- `[uv, VB, VI] = DiskBEM(F, V)`
+- `[uv, VB, VI] = SquareBEM(F, V)`
 
 Required Input:
 * `F`: `#F x 3` triangulations of an open triangle mesh
