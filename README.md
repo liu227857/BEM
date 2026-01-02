@@ -7,7 +7,7 @@
 
 <br clear="both" >
 
-This repository provides an implementation for parameterization of open triangular meshes.balancing angle and area distortion.
+This repository provides an implementation for parameterization of open triangular meshes, balancing angle and area distortion.
 
 If you use this code in your own work, please cite the following paper:
 
@@ -40,4 +40,4 @@ Output:
 This software is released for academic and research purposes only.  
 Commercial use is not permitted without prior written permission from the authors.
 
-© 2024 Shu-Yung Liu and Mei-Heng Yueh
+© 2025 Shu-Yung Liu and Mei-Heng Yueh
