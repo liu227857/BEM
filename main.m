@@ -32,16 +32,12 @@ load('StanfordBunny.mat')
 plot_mesh(F, V);
 title('Original Surface');
 
-pcode SquareBEM
-sdf
-
 
 % Disk-shaped parameterization 
 uv = DiskBEM(F, V);     
 distortion(F, V, uv);
 plot_mesh(F, uv);
 title('Distortion Balancing Map');
-
 
 % Square-shaped parameterization 
 uv = SquareBEM(F, V);
