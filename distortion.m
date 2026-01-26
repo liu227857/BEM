@@ -12,6 +12,7 @@ fprintf('SD   of area distortion  = %.2e\n',  std(abs(AreaQuality - 1)) );
 fprintf('mean of angle distortion = %.2e\n', mean(abs(AngleQuality - 1)) );
 fprintf('SD   of angle distortion = %.2e\n',  std(abs(AngleQuality - 1)) );
 fprintf('-----------------------------------\n')
+fprintf('\n')
 end
 
 

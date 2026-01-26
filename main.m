@@ -26,6 +26,7 @@
 % Copyright (c), Shu-Yung Liu and Mei-Heng Yueh
 
 
+
 %% Example: Bunny
 clear; clc;
 load('StanfordBunny.mat')
@@ -38,6 +39,7 @@ uv = DiskBEM(F, V);
 distortion(F, V, uv);
 plot_mesh(F, uv);
 title('Distortion Balancing Map');
+
 
 % Square-shaped parameterization 
 uv = SquareBEM(F, V);
