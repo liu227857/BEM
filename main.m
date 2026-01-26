@@ -14,7 +14,8 @@
 % VB: indices of boundary vertices
 % VI: indices of interior vertices
 % 
-% Remark:
+%
+%% Remark:
 % If you use this code in your own work, please cite the following paper:
 % [1] S.-Y. Liu, and M.-H. Yueh, "Energy-Based Distortion-Balancing 
 %      Parameterization for Open Surfaces"
