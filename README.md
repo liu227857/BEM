@@ -1,7 +1,7 @@
 <h1 align="left"> Distortion Balancing Parameterization</h1>
 
 <p align="left">
-  <img src="Bunny_M.png" width="20%" >
+  <img src="Bunny_M.png" width="20%" >&nbsp; &nbsp; 
   <img src="Bunny_uv.png" width="20%" >
 </p>
 
